@@ -8,7 +8,7 @@ streamlit前端框架学习
 
 ### (2)magic机制——write()函数：
 
-即使用 _**streamlit run **_执行的脚本代码在遇到单行变量时，会自动调用st.write()函数，来展示该数据，而write()函数会根据数据类型自动选择合适的函数进行数据打印展示，具体支持的参数类型如下。比如遇到DateFrame格式的数据就会将其显示为表格。<br />![image.png](https://cdn.nlark.com/yuque/0/2024/png/32656219/1709088744197-d10a71c2-c930-472c-9ab6-09442c1bbfa6.png#averageHue=%23fefdfd&clientId=u3bd9cd77-fa7b-4&from=paste&height=719&id=uda545bd1&originHeight=1078&originWidth=969&originalType=binary&ratio=1.5&rotation=0&showTitle=false&size=124082&status=done&style=none&taskId=u998a78b9-3147-41f0-b502-625221ab9c6&title=&width=646)
+即使用 streamlit run 执行的脚本代码在遇到单行变量时，会自动调用st.write()函数，来展示该数据，而write()函数会根据数据类型自动选择合适的函数进行数据打印展示，具体支持的参数类型如下。比如遇到DateFrame格式的数据就会将其显示为表格。<br />![image.png](https://cdn.nlark.com/yuque/0/2024/png/32656219/1709088744197-d10a71c2-c930-472c-9ab6-09442c1bbfa6.png#averageHue=%23fefdfd&clientId=u3bd9cd77-fa7b-4&from=paste&height=719&id=uda545bd1&originHeight=1078&originWidth=969&originalType=binary&ratio=1.5&rotation=0&showTitle=false&size=124082&status=done&style=none&taskId=u998a78b9-3147-41f0-b502-625221ab9c6&title=&width=646)
 <a name="eWSrd"></a>
 
 ### (3)theme——主题
