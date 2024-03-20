@@ -194,6 +194,6 @@ st.write("st.session_state object:", st.session_state)
 [https://30days.streamlit.app/?challenge=Day29](https://30days.streamlit.app/?challenge=Day29)<br />[How to create a zero-shot learning text classifier using Hugging Face & Streamlit!](https://www.charlywargnier.com/post/how-to-create-a-zero-shot-learning-text-classifier-using-hugging-face-and-streamlit)
 <a name="pAPZo"></a>
 
-#### 2.访问到 YouTube 视频的缩略图
+#### 2.访问 YouTube 视频的缩略图
 
 [https://30days.streamlit.app/?challenge=Day30](https://30days.streamlit.app/?challenge=Day30)
